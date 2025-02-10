@@ -24,7 +24,7 @@ import java.io.IOException;
  * records, and a spatial data structure to support
  * geographical queries.
  * 
- * @author Josh1 Josh Pandey
+ * @author Aden Pandey
  */
 public class HeapSort {
 
