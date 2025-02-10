@@ -1,0 +1,66 @@
+FEATURE_ID|FEATURE_NAME|FEATURE_CLASS|STATE_ALPHA|STATE_NUMERIC|COUNTY_NAME|COUNTY_NUMERIC|PRIMARY_LAT_DMS|PRIM_LONG_DMS|PRIM_LAT_DEC|PRIM_LONG_DEC|SOURCE_LAT_DMS|SOURCE_LONG_DMS|SOURCE_LAT_DEC|SOURCE_LONG_DEC|ELEV_IN_M|ELEV_IN_FT|MAP_NAME|DATE_CREATED|DATE_EDITED
+901711|Carlsbad Seventh Day Adventist|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901755|Hillcrest Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901756|Bethel Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901757|Loving Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901758|Mount Olive Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901759|Otis Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901760|Pilgrim Rest Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901776|Faith Memorial Free Will Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901778|Cavern Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901779|Garden Street Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901780|Happy Valley Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901781|La Huerta Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901815|Mount Sinai United Methodist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901816|First United Methodist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901830|Epworth United Methodist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901831|Hillcrest United Methodist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901861|Church of God-Fox and Walnut|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901862|The Church of Jesus Christ of Latter Day Saints - Carlsbad Ward|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901872|Wayside Mission Church of God in Christ|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901917|Oasis Christian Fellowship|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901918|First Christian Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901920|First Church of the Nazarene|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901955|First Presbyterian Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901968|Emmanuel Gospel Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901969|Grace Episcopal Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+901985|Saint Edwards Catholic Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902009|Church of God--Hillcrest|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902010|Grace Outreach Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902025|Our Lady of Grace Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902027|Church of God-Ninth and Missouri|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902084|Jesus Name Tabernacle|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902087|Jesus Name Tabernacle|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902102|Blodgett Street Baptist Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902109|Bahai Faith|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902112|Carlsbad Bible Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902126|Apostolic Church of Jesus Christ|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902127|Calvary Assembly of God Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902135|Gospel Assembly|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|12/01/1992|
+902439|Church Street Church of the Nazarene|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902440|Church of Christ--Spanish|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902441|Church of Christ--South Side|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902442|Church of Christ-Sunset|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902451|Carlsbad Mennonite Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902471|Rice Memorial CME Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902475|Church of Christ-Fox and Lake|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902476|Lifescope|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902501|Restoration Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+902729|Central Christian Church|Church|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|01/01/1993|
+916590|Hobbs Highway Pit|Mine|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|06/01/1993|
+920353|Bass (historical)|Populated Place|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+931072|20134 Water Well|Well|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|05/01/1994|
+931073|20135 Water Well|Well|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|05/01/1994|
+932540|Lusk Ranch Site|Locale|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|05/01/1994|
+933017|Francis|Populated Place|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|05/01/1994|
+933222|Valley of the Seven Rivers|Stream|NM|35|Eddy|015|Unknown|Unknown|0|0|000000N|0000000E|0|0|||Unknown|06/01/1994|
+933231|Popes Well|Spring|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|06/01/1994|
+937229|Oriental Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937251|Swamp Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937441|Reeds Ranch Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937476|Florence Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937515|Cass Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937549|Eddy Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937602|Lookout Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937629|Westwater Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|
+937726|Trailsend Post Office (historical)|Post Office|NM|35|Eddy|015|Unknown|Unknown|0|0|||||||Unknown|08/01/1993|

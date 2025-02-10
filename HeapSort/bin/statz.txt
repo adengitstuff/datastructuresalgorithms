@@ -1,0 +1,8 @@
+Heap sort statistics
+Data file name: generated.txt
+Cache hits: 380709
+Cache misses: 16660
+Disk reads: 16660
+Disk writes: 15399
+Sort execution time: 312ms
+

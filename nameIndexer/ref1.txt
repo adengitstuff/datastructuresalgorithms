@@ -1,0 +1,327 @@
+[ 0]  Processing script file: script1.txt
+[ 0]
+[ 0]  Cmd 1 :  index	VA_Highland.txt
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 2 :  debug	hash
+[ 5]  Number of elements: 281
+[ 5]  Number of slots: 512
+[ 5]  Maximum elements in a slot: 5
+[ 5]  Load limit: 1.0
+[ 0]  
+[ 0]  Slot    Contents
+[14]      0:  [[Sheets Hollow, [23542]]]
+[14]      2:  [[Mullenax Run, [19856]], [Whiteman Run, [29874]], [Highland County, [38136]]]
+[14]      3:  [[Little Ridge, [15890]], [Palo Alto, [35597]]]
+[14]      4:  [[Head Waters, [10911]]]
+[14]      5:  [[Scaffold Run, [22698]]]
+[14]      6:  [[Phillips Spring, [21331]]]
+[14]      9:  [[Botkin Hollow, [3322]]]
+[14]     11:  [[Freezland Hollow, [9555]], [Green Hill Church, [10128]], [Highland Wildlife Management Area, [11616]], [Mount Zion Church, [19445]], [Meadowdale, [34100]]]
+[14]     13:  [[Sugar Tree Draft, [26234]]]
+[10]     14:  [[Rich Hills, [34489]]]
+[ 4]     16:  [[Little Mountain, [23145, 35227]], [Stark Ridge, [40207]]]
+[ 4]     19:  [[Beulah Presbyterian Church, [1394]]]
+[ 4]     23:  [[Rock Lick Spring, [22122]], [Wildcat Hollow, [30343]]]
+[ 4]     25:  [[Big Hill, [1786]], [Campground Hollow, [5406]]]
+[ 4]     26:  [[Vanderpool, [35726]]]
+[ 4]     27:  [[McDowell High School, [38409]]]
+[ 4]     28:  [[Mountain Path, [19577]]]
+[ 4]     29:  [[Red Oak Knob, [21710]]]
+[ 4]     30:  [[Hulit Draft, [31654]]]
+[ 4]     31:  [[Clover Creek, [33355]]]
+[ 4]     36:  [[Davis Run, [7537]]]
+[ 4]     37:  [[Briery Draft, [3636]], [Buckeye (historical), [39378]]]
+[ 4]     38:  [[Church Hollow, [6273]]]
+[ 4]     40:  [[Dry Branch, [8104]], [Locust Spring Run Trail, [16479]]]
+[ 4]     41:  [[Valley Bethel Church, [28056]]]
+[ 4]     46:  [[Slabcamp Run, [24600]]]
+[ 4]     47:  [[Big Crooked Ridge, [1538]], [Seldom Seen Hollow, [22854]]]
+[ 4]     50:  [[Buck Knob, [36239]]]
+[ 4]     54:  [[Phillips Hollow, [32581]]]
+[ 4]     60:  [[New Salem Church, [20299]]]
+[ 4]     61:  [[Mill Gap, [18295, 35349]]]
+[ 4]     62:  [[Shaws Ridge, [23424]]]
+[ 4]     68:  [[Paddy Knob, [20745]]]
+[ 4]     70:  [[Ginseng Mountain, [9838]]]
+[ 4]     71:  [[Burners Run, [4936]], [Pisgah Church, [21587]]]
+[ 4]     72:  [[Peak Run, [21021]], [Peck Run, [21177]]]
+[ 4]     73:  [[Page Run, [20868]]]
+[ 4]     75:  [[East Back Creek, [8408]]]
+[ 4]     77:  [[Bolar Run, [3021]], [Jones Run, [13379]]]
+[ 4]     78:  [[Plum Grove School (historical), [38684]]]
+[ 4]     81:  [[Middle Mountain, [18028]]]
+[ 4]     87:  [[Bearwallow Run, [952]], [Jerry Hollow, [13225]], [Stony Run Church, [31246]], [Highland Elementary School, [38264]]]
+[ 4]     91:  [[Seybert Chapel, [23021]]]
+[ 4]     92:  [[Buck Hill, [4364]]]
+[ 4]     93:  [[Bluegrass Valley, [2860]]]
+[ 4]     94:  [[Black Gum Draft, [2275]]]
+[ 4]     98:  [[Barren Rock, [22000]], [Wolfe Draft, [30663]]]
+[ 4]     99:  [[Fairview Cemetery, [8874]], [Laurel Fork Trail, [14737]]]
+[ 4]    103:  [[Grassy Field Hollow, [9962]]]
+[ 4]    104:  [[Hulls Hill, [33734]]]
+[ 4]    110:  [[Sulphur Spring Hollow, [26401]], [Cedar Ridge, [40089]]]
+[ 4]    114:  [[Clover Lick Hollow, [6593]]]
+[ 4]    117:  [[Stony Run, [25470]]]
+[ 4]    123:  [[Stonewall District, [40755]]]
+[ 4]    129:  [[Strait Creek, [25922]]]
+[ 4]    132:  [[Benson Run Trail, [1268]]]
+[ 4]    135:  [[Devils Backbone, [7695]]]
+[ 4]    139:  [[Griffin Cemetery, [37582]]]
+[ 4]    140:  [[Horsehole Hollow, [12324]], [Warwick Run, [39514]]]
+[ 4]    143:  [[Dixon Hills, [7986]], [Hiner Church, [11883]]]
+[ 4]    145:  [[Brushy Hill, [31949]], [Bald Knob, [32742]]]
+[ 4]    146:  [[Wide Draft, [30031]]]
+[ 4]    148:  [[White Run, [29561]]]
+[ 4]    150:  [[Columbia Union College Biological Station, [7079]]]
+[ 4]    157:  [[Jenny Gwin Draft, [12935]]]
+[ 4]    159:  [[Sues Draft, [26080]]]
+[ 4]    161:  [[Brushy Mountain, [4110]], [Smith Field, [35990]]]
+[ 4]    162:  [[Locust Springs Recreation Site, [31512]]]
+[ 4]    163:  [[Cold Spring Run, [6754]], [Lick Points, [15640]], [Mill Run, [18565, 18724]]]
+[ 4]    165:  [[Broad Run, [3794]], [Sinking Creek, [24153]]]
+[ 4]    166:  [[Frank Run, [9400]], [Jerkemtight Trail, [13094]]]
+[ 4]    167:  [[Hupman Valley, [12648]], [New Church, [20173]]]
+[ 4]    168:  [[Wide Hollow, [30183]]]
+[ 4]    169:  [[Lick Draft, [15324, 15481]]]
+[ 4]    170:  [[Lost Run, [16613]]]
+[ 4]    171:  [[Monterey Mountain, [19001]]]
+[ 4]    172:  [[West Strait Creek, [29269]], [Sheep Knob, [34731]]]
+[ 4]    175:  [[Wooden Run, [30820]]]
+[ 4]    176:  [[Blue Grass District, [40479]]]
+[ 4]    177:  [[Whitehorn Creek, [29713]]]
+[ 4]    179:  [[Back Creek Mountain, [389]]]
+[ 4]    180:  [[Union Chapel, [27769]]]
+[ 4]    181:  [[Monterey, [35853]]]
+[ 4]    185:  [[Summers Mountain, [26572]]]
+[ 4]    186:  [[Flood School (historical), [37304]]]
+[ 4]    187:  [[Spring Run, [25022]]]
+[ 4]    189:  [[Laurel Fork, [14574]]]
+[ 4]    192:  [[Bolar Spring, [3188]]]
+[ 4]    193:  [[Mortons Draft, [19287]]]
+[ 4]    198:  [[Hamilton Draft, [10752]]]
+[ 4]    203:  [[Hightown, [33608]]]
+[ 4]    204:  [[Bullpasture Gorge, [4768]]]
+[ 4]    205:  [[Bethel, [36756]]]
+[ 4]    206:  [[Left Prong Benson Run, [15157]]]
+[ 4]    210:  [[Liberty, [33854]]]
+[ 4]    214:  [[Carroll Draft, [5696]]]
+[ 4]    216:  [[Siebert Run, [39815]]]
+[ 4]    218:  [[Laurel Gap Church, [14869]]]
+[ 4]    219:  [[Brushy Ridge, [4242, 33113]]]
+[ 4]    224:  [[Mill Hollow, [18408]]]
+[ 4]    225:  [[Lynn Stand Hollow, [17329]], [Lawson Knob, [39970]]]
+[ 4]    227:  [[Sinclair Hollow, [23991]]]
+[ 4]    228:  [[Key Run, [13969]]]
+[ 4]    230:  [[Maple Knob, [33980]]]
+[ 4]    231:  [[Dry Run, [8257]], [Elk Run, [8567]]]
+[ 4]    235:  [[Henry Ridge, [11032]]]
+[ 4]    236:  [[Mount Carlyle, [5570]], [River View School (historical), [38822]]]
+[ 4]    239:  [[Lynn Hollow, [17046]]]
+[ 4]    240:  [[Bear Hollow, [672]]]
+[ 4]    243:  [[Blights Run, [2436]], [Pine Ridge, [21466]]]
+[ 4]    245:  [[Steep Pinch Ridge, [25179]]]
+[ 4]    246:  [[Big Valley, [2025]]]
+[ 4]    248:  [[Sites Hollow, [24316]]]
+[ 4]    250:  [[Little Doe Hill, [15762]]]
+[ 4]    251:  [[McGuffin Trail, [17617]]]
+[ 4]    252:  [[Headwaters Presbyterian Church, [37856]]]
+[ 4]    255:  [[Clover Creek Presbyterian Church, [37022]]]
+[ 4]    261:  [[Miracle Ridge, [18878]]]
+[ 4]    263:  [[Erwin Draft, [8720]]]
+[ 4]    267:  [[Sapling Ridge, [22574]]]
+[ 4]    270:  [[Opossum Hollow, [20585]]]
+[ 4]    272:  [[Hiner Hollow, [12004]]]
+[ 4]    273:  [[Possum Trot, [34359]]]
+[ 4]    275:  [[Hupman Valley Trail, [31114]]]
+[ 4]    278:  [[Headwaters School (historical), [37996]]]
+[ 4]    282:  [[Lockridge Memorial Church, [16013]]]
+[ 4]    284:  [[White Oak Flat, [29432]]]
+[ 4]    286:  [[Vanderpool Gap, [28470]]]
+[ 4]    287:  [[Huffman Hollow, [12487]]]
+[ 4]    289:  [[Shaws Fork, [23269]]]
+[ 4]    291:  [[New Hampden, [34229]]]
+[ 4]    294:  [[Thorny Bottom Church, [27481]]]
+[ 4]    298:  [[Lower Gap, [16765]]]
+[ 4]    299:  [[Strait Creek School (historical), [39097]]]
+[ 4]    303:  [[Salthouse Hollow, [22416]]]
+[ 4]    305:  [[Devrick Hollow, [7826]], [Green Hill School (historical), [37444]]]
+[ 4]    309:  [[Crab Run, [7230, 7383]], [Lower Mountain Lick, [16882]]]
+[ 4]    310:  [[Sounding Knob, [34851]]]
+[ 4]    311:  [[Nelson Draft, [20010]]]
+[ 4]    313:  [[Christian Run Trail, [6139]]]
+[ 4]    314:  [[Lynn Rock Church, [17203]]]
+[ 4]    315:  [[Gulf Mountain, [10376]], [Gwin Mountain, [10500]], [Jack Mountain, [12809]], [Buck Mountain, [32070]], [Bear Mountain, [32862, 32989]]]
+[ 4]    316:  [[Buck Run, [4487]], [Bullpasture Mountain, [32193]]]
+[ 4]    320:  [[Ruckman Draft, [22259]]]
+[ 4]    321:  [[Headwaters Brethren Church (historical), [37707]]]
+[ 4]    322:  [[Simmons Run, [23834]]]
+[ 4]    326:  [[Blue Grass Cemetery, [2723]]]
+[ 4]    328:  [[Swope Hollow, [26831]]]
+[ 4]    329:  [[Back Draft, [516]]]
+[ 4]    332:  [[Knox Lick Draft, [14283]]]
+[ 4]    336:  [[Mudlick Draft, [19700]]]
+[ 4]    337:  [[Kettle Hollow, [13817]]]
+[ 4]    338:  [[Forks of Waters, [9275]]]
+[ 4]    342:  [[Brushy Fork, [3949]], [Hoop Hole Hollow, [12162]]]
+[ 4]    345:  [[Middle Mountain Trail, [18158]]]
+[ 4]    348:  [[Sorrel Point Ridge, [24764]]]
+[ 4]    349:  [[Benson Run, [1113]]]
+[ 4]    350:  [[Hickory Log Hollow, [11311]], [Doe Hill School (historical), [37167]], [Naples (historical), [39679]]]
+[ 4]    352:  [[Central Church, [5850]]]
+[ 4]    356:  [[Galford Gap, [9721]]]
+[ 4]    362:  [[Stillhouse Run, [25307]]]
+[ 4]    367:  [[Sirons Mill, [32451]], [Monterey Methodist Episcopal Church, [38539]]]
+[ 4]    369:  [[Buffalo Knob, [4646]]]
+[ 4]    373:  [[The Bump, [27116]]]
+[ 4]    374:  [[The Stamp, [27355]]]
+[ 4]    375:  [[Hamilton Chapel, [10624]]]
+[ 4]    377:  [[Seybert Hills, [34609]]]
+[ 4]    378:  [[Town of Monterey, [40891]]]
+[ 4]    383:  [[Locust Fork, [16152]], [McKendree Church, [17743]]]
+[ 4]    387:  [[McDowell, [17490]]]
+[ 4]    388:  [[Flood, [9155]], [Mustoe, [35474]]]
+[ 4]    389:  [[Laurel Run, [15001]]]
+[ 4]    391:  [[Right Prong Benson Run, [21831]]]
+[ 4]    392:  [[Bearcamp Knob, [828]], [Eowyns Run, [40325]]]
+[ 4]    393:  [[Alum Rock, [36115]]]
+[ 4]    396:  [[Big End, [1667]]]
+[ 4]    397:  [[Christian Run, [5974]]]
+[ 4]    398:  [[Locust Spring Run, [16310]]]
+[ 4]    402:  [[Newman Run, [20428]]]
+[ 4]    404:  [[Big Valley Cemetery, [2142]]]
+[ 4]    406:  [[Wallowhole Hollow, [28863]], [Trimble Knob, [35106]]]
+[ 4]    408:  [[Jones Trail, [13531]]]
+[ 4]    410:  [[Hardscrabble, [36360]]]
+[ 4]    411:  [[Confederate Breastworks, [31816]]]
+[ 4]    412:  [[Swank Chapel, [26703]]]
+[ 4]    417:  [[Knotmaul Run, [14122]], [Patna, [36496]]]
+[ 4]    418:  [[Morris Run, [19129]], [Southall Chapel, [24894]]]
+[ 4]    419:  [[Hightown Church, [11759]]]
+[ 4]    421:  [[Cedar Knob, [33236]]]
+[ 4]    423:  [[Shenandoah Mountain Trail, [23699]]]
+[ 4]    427:  [[Collins Run, [6921]]]
+[ 4]    430:  [[Bridge Hollow, [3480]], [Tamarack Ridge, [26992]]]
+[ 4]    431:  [[Woods-Terry School (historical), [39239]]]
+[ 4]    432:  [[Kent Simmons Hollow, [13651]]]
+[ 4]    439:  [[Stony Run Cemetery, [25626]], [Vance Hollow, [28309]]]
+[ 4]    440:  [[Monterey District, [40616]]]
+[ 4]    445:  [[Blue Grass, [2594]]]
+[ 4]    452:  [[Lantz Mountain, [14449]], [Hannah Field Airport, [30973]]]
+[ 4]    456:  [[Doe Hill, [32324, 33489]], [Trimble, [34978]]]
+[ 4]    458:  [[Upper Mountain Lick, [27891]]]
+[ 4]    459:  [[Riverview Church (historical), [38960]]]
+[ 4]    462:  [[Meadow Draft, [17868]]]
+[ 4]    465:  [[Asbury Church, [266]]]
+[ 4]    468:  [[Big Ridge, [1904]]]
+[ 4]    469:  [[Locust Springs Picnic Area, [31374]]]
+[ 4]    472:  [[Campbell Run, [5252]], [Water Sinks, [29023]]]
+[ 4]    473:  [[Victory Chapel, [28590]]]
+[ 4]    474:  [[The Divide, [27236]]]
+[ 4]    478:  [[Claylick Hollow, [6432]]]
+[ 4]    480:  [[Sittlington Hill, [24474]]]
+[ 4]    482:  [[Highland High School, [11476]]]
+[ 4]    491:  [[Wesley Chapel, [29148]]]
+[ 4]    494:  [[Straight Fork, [25758]]]
+[ 4]    496:  [[Cabin Hollow, [5093]], [Blue Grass School (historical), [36882]]]
+[ 4]    498:  [[Gregory Ridge, [10252]]]
+[ 4]    500:  [[Townsend Draft, [27611]]]
+[ 4]    501:  [[Valley Center, [28188]]]
+[ 4]    503:  [[Wilson Hollow, [30504]]]
+[ 4]    504:  [[Falls Hollow, [9001]]]
+[ 4]    509:  [[Hevener Run, [11154]], [Snowy Mountain, [36625]]]
+[ 4]    511:  [[Vinegar Run, [28712]]]
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 3 :  what_is	Bridge Hollow
+[80]      3480:  Valley  (79d 45m 23s West, 38d 15m 57s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 4 :  what_is	Sulphur Spring Hollow
+[80]     26401:  Valley  (79d 21m 58s West, 38d 21m 52s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 5 :  what_is	Sirons Mill
+[80]     32451:  Populated Place  (79d 28m 23s West, 38d 23m 51s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 6 :  what_is	Beulah Presbyterian Church
+[80]      1394:  Church  (79d 43m 44s West, 38d 18m 19s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 7 :  what_is	Buffalo Knob
+[80]      4646:  Summit  (79d 21m 8s West, 38d 25m 16s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 8 :  what_is	Lynn Hollow
+[80]     17046:  Valley  (79d 21m 22s West, 38d 23m 2s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 9 :  what_is	Steep Pinch Ridge
+[80]     25179:  Ridge  (79d 47m 8s West, 38d 18m 33s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 10 :  what_is	Stonewall District
+[80]     40755:  Civil  (79d 28m 35s West, 38d 19m 0s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 11 :  what_is	Laurel Gap Church
+[80]     14869:  Church  (79d 32m 12s West, 38d 13m 33s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 12 :  what_is	Monterey
+[80]     35853:  Populated Place  (79d 34m 50s West, 38d 24m 44s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 13 :  what_is	Wallowhole Hollow
+[80]     28863:  Valley  (79d 27m 26s West, 38d 14m 2s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 14 :  what_is	Big Valley
+[80]      2025:  Basin  (79d 38m 3s West, 38d 15m 57s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 15 :  what_is	The Bump
+[80]     27116:  Summit  (79d 27m 54s West, 38d 13m 20s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 16 :  what_is	Hightown
+[80]     33608:  Populated Place  (79d 37m 54s West, 38d 25m 52s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 17 :  what_is	Davis Run
+[80]      7537:  Stream  (79d 30m 53s West, 38d 18m 24s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 18 :  what_is	Mudlick Draft
+[80]     19700:  Valley  (79d 22m 58s West, 38d 20m 52s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 19 :  what_is	Newman Run
+[80]     20428:  Stream  (79d 38m 33s West, 38d 31m 21s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 20 :  what_is	Sues Draft
+[80]     26080:  Valley  (79d 42m 57s West, 38d 20m 20s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 21 :  what_is	Union Chapel
+[80]     27769:  Church  (79d 34m 35s West, 38d 28m 28s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 22 :  what_is	Buck Run
+[80]      4487:  Stream  (79d 36m 40s West, 38d 33m 41s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 23 :  what_is	Headwaters Brethren Church (historical)
+[80]     37707:  Church  (79d 24m 55s West, 38d 19m 24s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 24 :  what_is	Wilson Hollow
+[80]     30504:  Valley  (79d 25m 52s West, 38d 18m 29s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 25 :  what_is	Christian Run
+[80]      5974:  Stream  (79d 36m 41s West, 38d 33m 11s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 26 :  what_is	Sites Hollow
+[80]     24316:  Valley  (79d 25m 34s West, 38d 20m 35s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 27 :  what_is	Clover Lick Hollow
+[80]      6593:  Valley  (79d 27m 19s West, 38d 16m 47s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 28 :  what_is	Little Doe Hill
+[80]     15762:  Summit  (79d 31m 9s West, 38d 21m 48s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 29 :  what_is	Locust Fork
+[80]     16152:  Stream  (79d 26m 18s West, 38d 14m 15s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 30 :  what_is	Summers Mountain
+[80]     26572:  Summit  (79d 31m 58s West, 38d 14m 43s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 31 :  what_is	Mill Gap
+[80]     18295:  Gap  (79d 43m 37s West, 38d 18m 15s North)
+[80]     35349:  Populated Place  (79d 42m 14s West, 38d 19m 18s North)
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 32 :  what_is	xxxMill Gapzzz
+[80]  No record matches xxxMill Gapzzz
+[ 0]  -----------------------------------------------------
+[ 0]  Cmd 33 :  quit
+[ 0]  Found quit command... ending processing...
+[ 0]  -----------------------------------------------------

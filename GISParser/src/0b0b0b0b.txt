@@ -1,0 +1,79 @@
+GISNEW.txt contains the following records: 
+
+ 	265	Devils Den Spring
+ 	400	10204 Water Well
+ 	524	Hackberry Well
+ 	642	Sun Windmill
+ 	761	06415 Water Well
+ 	880	McAshan Ranch
+ 	995	Four Forks
+ 	1124	Coad Tank
+ 	1240	Cottonwood Spring
+ 	1379	PCA Plant Mine
+ 	1504	East Tank
+ 	1635	Middleton Storage Tank
+ 	1769	Artesia Country Club
+ 	1894	20075 Water Well
+ 	2014	Red Bluff
+ 	2138	06151 Water Well
+ 	2257	06094 Water Well
+ 	2375	Poker Tank
+ 	2505	H Bar Y Ranch
+ 	2630	Artesia Oil Field
+ 	2755	Longview Spring
+ 	2881	Hackberry Canyon
+ 	3045	Moore-Ward Cobblestone House Historic Site
+ 	3194	Dayton Post Office (historical)
+ 	3334	Eddy County Fairgrounds
+ 	3462	North Well
+ 	3581	06436 Water Well
+ 	3702	Geyser Springs
+ 	3838	Truitt Ranch
+ 	3960	Loco Hills Post Office
+ 	4095	Tip Top Wells
+ 	4215	06045 Water Well
+ 	4334	McKittrick Canyon Draw
+ 	4510	Puckett Elementary School
+ 	4645	Lonesome Ridge Wilderness Study Area
+ 	4792	06072 Water Well
+ 	4911	Ranch Acres Baptist Church
+ 	5047	05127 WAter Well
+ 	5165	Tomcat Windmill
+ 	5290	Beardon Canyon
+ 	5451	Hamilton Well
+ 	5565	South Fork Hay Hollow
+ 	5734	Tumbleweed Draw
+ 	5895	International Mineral
+ 	6027	06101 Water Well
+ 	6145	Boyds Canyon
+ 	6303	Indian Flats
+ 	6421	Church of Christ
+ 	6542	The Bowl
+ 	6662	Loving High School
+ 	6782	Big Boy Tank
+ 	6917	Loco Hills Oil Field
+ 	7047	Smith Ranch
+ 	7168	Carlsbad Caverns Wilderness
+ 	7309	Ross Place
+ 	7443	CCC Tank Number 2
+ 	7579	Middle Seven Rivers
+ 	7745	Calvary Assembly of God Church
+ 	7885	Roselawn School
+ 	8003	10064 Water Well
+ 	8122	Scanlon Draw
+ 	8275	Lancaster Spring
+ 	8412	Hope Community Canal
+ 	8550	El Paso Gap
+ 	8669	Helton Creek
+ 	8831	Black Muley Mill
+ 	8957	Church of God--Hillcrest
+ 	9057	Church Street Church of the Nazarene
+ 	9169	Francis
+ 	9261	Faith Memorial Free Will Baptist Church
+ 	9376	Carlsbad Bible Church
+ 	9473	Carlsbad Mennonite Church
+ 	9574	Jesus Name Tabernacle
+ 	9671	Grace Outreach Church
+ 	9768	Church of Christ-Sunset
+ 	9867	Our Lady of Grace Church
+ 	9967	Central Christian Church

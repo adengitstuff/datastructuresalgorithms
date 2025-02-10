@@ -1,0 +1,58 @@
+	1: show_longitude	11005
+	Offset is too large
+	2: show_latitude	7532
+	Offset is too large
+	3: show_elevation	3296
+	Offset is too large
+	4: show_elevation	6064
+	Offset is too large
+	5:  show_longitude	997
+	  1040305W
+	6: show_latitude	10809
+	Offset is too large
+	7: show_name	5790
+	Offset is too large
+	8: show_latitude	6387
+	Offset is too large
+	9: show_elevation	5413
+	Offset is too large
+	10: show_longitude	7810
+	Offset is too large
+	11: show_elevation	10932
+	Offset is too large
+	12: show_longitude	9300
+	Offset is too large
+	13: show_elevation	8765
+	Offset is too large
+	14: show_elevation	3541
+	Offset is too large
+	15: show_elevation	5945
+	Offset is too large
+	16: show_elevation	8067
+	Offset is too large
+	17:  show_name	265
+	  Cockleberry Tank
+	18: show_longitude	2892
+	Offset is too large
+	19: show_latitude	5658
+	Offset is too large
+	20:  show_name	565
+	  20070 Water Well
+	21: show_longitude	3774
+	Offset is too large
+	22: show_name	9948
+	Offset is too large
+	23: show_latitude	2347
+	Offset is too large
+	24:  show_name	-79
+	 Offset is not positive
+	25: show_latitude	11569
+	Offset is too large
+	26: show_name	7166
+	Offset is too large
+	27: show_longitude	9016
+	Offset is too large
+	28: show_longitude	1808
+	Offset is too large
+	28: quit 
+	Exiting

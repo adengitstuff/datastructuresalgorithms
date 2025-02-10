@@ -1,0 +1,70 @@
+GISMAMA.txt contains the following records: 
+
+ 	265	Dickson Farm
+ 	380	Happy Valley Fire Department Station 1
+ 	531	Calvary Assembly of God Church
+ 	671	06068 Water Well
+ 	790	Edward R Gasler House Historic Site
+ 	932	06685 Water Well
+ 	1058	El Paso Gap
+ 	1175	Rounds Waterhole
+ 	1313	Flynn-Welch-Yates Number Three Oil Well Historic Site
+ 	1471	Paxton Well
+ 	1592	Tecolote Peak
+ 	1718	Owl Draw
+ 	1869	Twin Boils Spring
+ 	2004	Middleton Storage Tank
+ 	2138	Barber Crossing
+ 	2270	Righthand Well
+ 	2392	Hagerman Heights
+ 	2527	Harkey Crossing
+ 	2657	06048 Water Well
+ 	2776	Christian Science Society Church
+ 	2913	20082 Water Well
+ 	3033	Rock Windmill
+ 	3158	KBPM-La Huerta (Los Alamos)
+ 	3294	71036 Water Well
+ 	3412	Catclaw Draw
+ 	3570	Saint Edwards School
+ 	3700	Dunnaway Tank
+ 	3833	Dunnaway Canyon
+ 	3997	Putman Water Well
+ 	4127	Double Canyon Draw
+ 	4299	07037 Water Well
+ 	4425	South Seep
+ 	4549	Tomcat Windmill
+ 	4674	Avalon
+ 	4799	Willar Well
+ 	4913	06003 Water Well
+ 	5032	Care Plus Ambulance
+ 	5164	Whites City Volunteer Fire Department Station 2
+ 	5331	Russell Ranch
+ 	5455	06151 Water Well
+ 	5574	Sunshine Tank
+ 	5698	06043 Water Well
+ 	5817	Townsite Salt
+ 	5938	Williams Hollow
+ 	6063	06744 Water Well
+ 	6186	Sitting Bull Falls Point of Interest
+ 	6323	Chimney Well
+ 	6446	Greybug Maljamar Oil Field
+ 	6583	Black River Village
+ 	6727	20056 Water Well
+ 	6858	RA-7804 Water Well
+ 	6985	Southern Canal
+ 	7108	Target Windmill
+ 	7234	Pipkin Ranch (historical)
+ 	7373	South Well
+ 	7495	20146 Water Well
+ 	7621	71110 Water Well
+ 	7740	Francis
+ 	7832	Garden Street Baptist Church
+ 	7936	Eddy Post Office (historical)
+ 	8046	Lookout Post Office (historical)
+ 	8159	Mount Olive Baptist Church
+ 	8261	Saint Edwards Catholic Church
+ 	8366	Lifescope
+ 	8451	Bass (historical)
+ 	8553	Mount Sinai United Methodist Church
+ 	8664	20135 Water Well
+ 	8754	Florence Post Office (historical)

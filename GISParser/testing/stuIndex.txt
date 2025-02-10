@@ -1,0 +1,69 @@
+GISdata.txt contains the following records: 
+
+ 	265	North Shugart Oil Field
+ 	396	Hackberry Well
+ 	514	North Fork Little McKittrick Draw
+ 	687	Lechuguilla Canyon
+ 	855	Rock Windmill
+ 	980	06062 Water Well
+ 	1098	10301 Water Well
+ 	1228	12578 Water Well
+ 	1356	Saint Pauls Episcopal Church
+ 	1489	Lake Arthur High School
+ 	1620	SE Storm Drainage Detention Dam
+ 	1753	Smith Ranch
+ 	1874	Harroun Lake Dam
+ 	1989	Black River
+ 	2140	Flotation Plant
+ 	2256	Double Wells Tank
+ 	2394	Sherrell Pit
+ 	2508	Box Canyon Ranch
+ 	2638	Unite State Potash Reserve
+ 	2779	Loco Hills Division
+ 	2923	10465 Water Well
+ 	3041	Lee Ranch
+ 	3160	Waterhole Draw
+ 	3320	Bullis Canyon
+ 	3477	Jahie Lake
+ 	3606	71041 Water Well
+ 	3725	Livingston Ridge
+ 	3854	Jumping Spring
+ 	3990	Monterrey Elementary School
+ 	4127	20153 Water Well
+ 	4250	06146 Water Well
+ 	4368	Happy Valley Fire Department Station 1
+ 	4519	Pay Jay Number 2 Heliport
+ 	4650	Lower Reed Well
+ 	4776	06006 Water Well
+ 	4895	06742 Water Well
+ 	5018	Target Windmill
+ 	5144	Lusk Ranch
+ 	5268	06441 Water Well
+ 	5389	Knee Deep
+ 	5521	Jones Ranch
+ 	5642	Nash Draw Mine
+ 	5763	Hurston Tank
+ 	5885	71075 Water Well
+ 	6003	06620 Water Well
+ 	6123	United States Potash Company Refinery
+ 	6263	East Tank
+ 	6394	Goat Corral Canyon
+ 	6566	20100 Water Well
+ 	6692	Municipal Lake
+ 	6810	Truitt Ranch
+ 	6932	East Apple Tank
+ 	7056	Fanning Draw
+ 	7213	Sotol Basin
+ 	7335	McBride Tank
+ 	7463	06732 Water Well
+ 	7586	Rice Memorial CME Church
+ 	7686	Restoration Church
+ 	7780	Bass (historical)
+ 	7882	Westwater Post Office (historical)
+ 	7997	First Church of the Nazarene
+ 	8101	Garden Street Baptist Church
+ 	8205	Central Christian Church
+ 	8305	Popes Well
+ 	8391	Hobbs Highway Pit
+ 	8482	20135 Water Well
+ 	8572	Oriental Post Office (historical)

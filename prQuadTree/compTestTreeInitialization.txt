@@ -1,0 +1,13 @@
+Maximum score 100
+            checkTreeInitialization results:
+              Creating a new prQuadtree with world boundaries:
+                xMin:  0
+                xMax:  256
+                yMin:  0
+                yMax:  256
+
+
+Student file has 5 more lines than reference file.
+
+
+ 1 >> Score: 100.00 / 100

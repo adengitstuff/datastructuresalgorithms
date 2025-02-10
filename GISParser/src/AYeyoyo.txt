@@ -1,0 +1,87 @@
+GISdata3.txt contains the following records: 
+
+0	FEATURE_NAME
+265	Hackberry Tank
+392	Middle Seven Rivers
+558	McKittrick Canyon Wilderness Study Area
+704	10068 Water Well
+823	Cockleberry Tank
+962	Middleton Well
+1084	KBPM-La Huerta (Los Alamos)
+1220	Roselawn School
+1338	Baldridge Canyon
+1500	Lefthook Canyon
+1665	Victory Mission Church
+1792	North Texas Hill Canyon
+1960	La Huerta
+2098	Lost Tank
+2228	Chosa Draw
+2389	North Shugart Oil Field
+2520	Municipal Lake
+2638	Stone Canyon
+2795	Flynn-Welch-Yates Number Three Oil Well Historic Site
+2953	Yarbro Well
+3068	Jones Ranch
+3189	Middle Fork Little McKittrick Draw
+3369	Locklear Water Storage Tank
+3509	Chimney Well
+3632	Texas Hill
+3750	06001 Water Well
+3869	Primera Iglesia Bautista
+3998	06746 Water Well
+4121	Old Farrell Place (historical)
+4265	China Draw
+4415	Loving Middle School
+4537	Nagooltee Peak
+4659	06121 Water Well
+4778	Gyp Windmill
+4900	Fade Away Ridge
+5025	Horse Canyon
+5177	06103 Water Well
+5296	10454 Water Well
+5415	West Fork Little McKittrick Draw
+5592	Dublin Tank
+5724	06064 Water Well
+5843	Mayes Ranch
+5971	Box Shack Well
+6093	06203 Water Well
+6211	Cedar Canyon
+6370	Dark Canyon Draw
+6533	Big Boy Tank
+6668	Blue Spring
+6806	20020 Water Well
+6927	10191 Water Well
+7051	06169 Water Well
+7170	Lower Tonsill Lake
+7296	Laney Ranch
+7412	Queen
+7529	10099 Water Well
+7648	05055 Water Well
+7765	Hilt Tank
+7897	Anderson Oil Field
+8026	Lusk Ranch (historical)
+8161	Helper Tank
+8295	Priestly Tank
+8424	Duval Corporation North Mine
+8563	Pavo Mesa
+8683	Hart Canyon
+8840	Sun Windmill
+8959	Trinity Church
+9078	Owens Tank
+9210	Kirkendell Draw
+9372	Westwater Post Office (historical)
+9487	First United Methodist Church
+9592	Restoration Church
+9686	Saint Edwards Catholic Church
+9791	Epworth United Methodist Church
+9898	Church of God-Ninth and Missouri
+10006	Garden Street Baptist Church
+10110	Bethel Baptist Church
+10207	Valley of the Seven Rivers
+10326	Church of God--Hillcrest
+10426	Grace Outreach Church
+10523	20134 Water Well
+10613	Oasis Christian Fellowship
+10715	Mount Sinai United Methodist Church
+10826	The Church of Jesus Christ of Latter Day Saints - Carlsbad Ward
+ end of the TING!

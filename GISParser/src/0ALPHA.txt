@@ -1,0 +1,58 @@
+	1:  show_latitude	4425
+	  32d 5m 48s North
+	2:  show_elevation	3700
+	  5308
+	3:  show_latitude	5698
+	  32d 50m 28s North
+	4:  show_elevation	3412
+	  3310
+	5:  show_longitude	7108
+	  103d 46m 58s West
+	6:  show_longitude	5455
+	  104d 24m 6s West
+	7:  show_name	-714
+	 Offset is not positive
+	8:  show_longitude	7495
+	  104d 32m 13s West
+	9:  show_elevation	8176
+	  Offset is unaligned
+	10:  show_elevation	8664
+	  Elevation is not given
+	11:  show_name	1175
+	  Rounds Waterhole
+	12:  show_name	1718
+	  Owl Draw
+	13:  show_elevation	4674
+	  3182
+	14:  show_name	4299
+	  07037 Water Well
+	15:  show_name	5331
+	  Russell Ranch
+	16:  show_latitude	8754
+	   Coordinate is not given
+	17:  show_longitude	8553
+	  Coordinate is not given
+	18:  show_name	8366
+	  Lifescope
+	19:  show_elevation	4913
+	  3458
+	20:  show_name	7936
+	  Eddy Post Office (historical)
+	21:  show_latitude	9597
+	 Offset is too large
+	22:  show_elevation	5574
+	  4829
+	23:  show_longitude	8046
+	  Coordinate is not given
+	24:  show_elevation	4127
+	  3661
+	25:  show_longitude	671
+	  104d 24m 15s West
+	26:  show_name	7740
+	  Francis
+	27:  show_name	4549
+	  Tomcat Windmill
+	28:  show_elevation	7373
+	  4049
+	28: quit 
+	Exiting

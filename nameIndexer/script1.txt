@@ -1,0 +1,43 @@
+; script1.txt
+; Test of hash table building and feature name searches.
+
+; Index a DB file:
+index	VA_Highland.txt
+
+; Check the name index:
+debug	hash
+
+; Try a few feature name searches:
+what_is	Bridge Hollow
+what_is	Sulphur Spring Hollow
+what_is	Sirons Mill
+what_is	Beulah Presbyterian Church
+what_is	Buffalo Knob
+what_is	Lynn Hollow
+what_is	Steep Pinch Ridge
+what_is	Stonewall District
+what_is	Laurel Gap Church
+what_is	Monterey
+what_is	Wallowhole Hollow
+what_is	Big Valley
+what_is	The Bump
+what_is	Hightown
+what_is	Davis Run
+what_is	Mudlick Draft
+what_is	Newman Run
+what_is	Sues Draft
+what_is	Union Chapel
+what_is	Buck Run
+what_is	Headwaters Brethren Church (historical)
+what_is	Wilson Hollow
+what_is	Christian Run
+what_is	Sites Hollow
+what_is	Clover Lick Hollow
+what_is	Little Doe Hill
+what_is	Locust Fork
+what_is	Summers Mountain
+what_is	Mill Gap
+what_is	xxxMill Gapzzz
+
+; Exit
+quit	

@@ -1,0 +1,85 @@
+GISdatanew.txt contains the following records: 
+
+ 	265	Cockleberry Tank
+ 	404	Sacahuiste Draw
+ 	565	20070 Water Well
+ 	696	Bear Canyon
+ 	857	Lakewood Baptist Church
+ 	997	Unite State Potash Reserve
+ 	1138	Pickett Tanks
+ 	1274	Carlsbad Fire Department Station 3
+ 	1421	Crockett Ranch
+ 	1554	06708 Water Well
+ 	1675	Hillview Baptist Church
+ 	1808	KAMQ-AM (Carlsbad)
+ 	1935	JRC Spring
+ 	2055	Elbow Draw
+ 	2212	Lower Transill Dam
+ 	2347	John Acord House Historic Site
+ 	2484	10190 Water Well
+ 	2607	Sun Country Volunteer Fire Department Station 1
+ 	2762	Loco Hills Oil Field
+ 	2892	06167 Water Well
+ 	3010	Beeson Station
+ 	3132	Rocky Arroyo
+ 	3296	20102 Water Well
+ 	3422	06001 Water Well
+ 	3541	71035 Water Well
+ 	3660	Harroun Ditch
+ 	3774	Riverside Volunteer Fire Department
+ 	3920	20002 Water Well
+ 	4043	06109 Water Well
+ 	4162	First Methodist Episcopal Church South
+ 	4310	East Well
+ 	4427	05048 Water Well
+ 	4546	Artesia Weather Station
+ 	4674	Stone Canyon
+ 	4832	Black River Water Storage
+ 	4969	Culebra Bluff
+ 	5084	Robinia Draw
+ 	5253	Waterhole Draw
+ 	5413	Rocky Arroyo School
+ 	5541	Lovings Bend Park
+ 	5658	Old Wallace Smith
+ 	5790	Tucker Draw
+ 	5945	06148 Water Well
+ 	6064	Calabaza Draw
+ 	6224	Spring Canyon
+ 	6387	Western College Methodist Episcopal Church South (historical)
+ 	6553	Carnero Peak
+ 	6675	Trinity Church
+ 	6794	06134 Water Well
+ 	6913	Hunter Place
+ 	7036	Carlsbad High School
+ 	7166	Indian Well
+ 	7284	Old Jones Ranch
+ 	7408	10228 Water Well
+ 	7532	Elbow Canyon
+ 	7691	IMCC Mine
+ 	7810	Hollan Tank
+ 	7942	Lower John Well
+ 	8067	Red Bluff
+ 	8191	Holt Tank Draw
+ 	8349	20100 Water Well
+ 	8475	Seco Tank
+ 	8605	Cedar Lake Draw
+ 	8765	Clayton Basin
+ 	8890	First Christian Church
+ 	9016	Hope
+ 	9141	Shafer Canyon
+ 	9300	Lone Eagle
+ 	9419	71091 Water Well
+ 	9543	Nimenim Ridge
+ 	9666	Catclaw Draw
+ 	9819	Red Tank
+ 	9948	Lone Tree Draw
+ 	10109	Rice Memorial CME Church
+ 	10209	Carlsbad Bible Church
+ 	10306	Gospel Assembly
+ 	10397	Florence Post Office (historical)
+ 	10511	Church of Christ--South Side
+ 	10615	Church of God-Fox and Walnut
+ 	10719	20134 Water Well
+ 	10809	Calvary Assembly of God Church
+ 	10915	20135 Water Well
+ 	11005	Carlsbad Seventh Day Adventist

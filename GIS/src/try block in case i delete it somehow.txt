@@ -1,0 +1,117 @@
+try block
+//        
+//        try {
+//            RandomAccessFile raf = new RandomAccessFile(fl, "r");
+//            raf.seek(offset);
+//            String readline = raf.readLine();
+//            
+//            /* The following applies for any record, so we'll keep it as a general
+//             * rule:*/
+//             
+//                if (readline == null) {
+//                    return null;
+//                }
+//                
+//                /* if the buffer size is less than 15, add it :*/
+//                
+//                if (buffer.size() < 15) {
+//                    this.addToBuffer(readline, offset);
+//                }
+//                else {
+//                    this.resize();
+//                    this.addToBuffer(readline, offset);
+//                }
+//                
+//                /* I wonder if this is inefficient, but then I remember
+//                 * it's called essentially a maximum of the number of
+//                 * commands there are in a file; so it's likely constant,
+//                 * since n would be GIs records? Sorry if this is messy, it's
+//                 * neatly organized/clean reasoning to me! There is a better way
+//                 * to do this, most likely, though. I wanted to avoid loops because
+//                 * if I were in any professional setting, I'd keep it like this
+//                 * for easy access to any changes
+//                 */
+//                //System.out.println(" readline is : " + readline);
+//                Scanner scanner = new Scanner(readline);
+//                scanner.useDelimiter("\\|");
+//                scanner.next(); /* Feature ID*/
+//                String featureName = scanner.next(); /* Feature name*/
+//                scanner.next(); /* Feature class*/
+//                String state = scanner.next(); /* State alpha*/
+//                scanner.next(); /* State numeric*/
+//                String countyName = scanner.next(); /* County name*/
+//                scanner.next(); /* County numeric*/
+//                String primLatN = scanner.next();
+//                String primLongW = scanner.next();
+//                
+//                String westDeg = primLongW.substring(0, 3);
+//                String westMin = primLongW.substring(3, 5);
+//                String westSec = primLongW.substring(5, 7);
+//                String northDeg = primLatN.substring(0, 2);
+//                String northMin = primLatN.substring(2, 4);
+//                String northSec = primLatN.substring(4, 6);
+//                
+//                if (westDeg.charAt(0) == '0') {
+//                    westDeg = westDeg.substring(1);
+//                }
+//                if (westMin.charAt(0) == '0') {
+//                    westMin = westMin.substring(1);
+//                }
+//                if (westSec.charAt(0) == '0') {
+//                    westSec = westSec.substring(1);
+//                }
+//                
+//                if (northDeg.charAt(0) == '0') {
+//                    northDeg = northDeg.substring(1);
+//                }
+//                if (northMin.charAt(0) == '0') {
+//                    northMin = northMin.substring(1);
+//                }
+//                if (northSec.charAt(0) == '0') {
+//                    northSec = northSec.substring(1);
+//                }
+//                
+//                
+//                String totalWest = westDeg + "d " + westMin + "m "
+//                    + westSec + "s West,";
+//                String totalNorth = northDeg + "d " + northMin +"m "
+//                    + northSec + "s North";
+//            
+//            
+//                
+//                    /* Command logic: This follows so that in our main call,
+//                     * we can always just print arr[1], arr[2], arr[3], etc.
+//                     */
+//                    /* better way is with ints*/
+//                
+//                /* What is case. I used an int instead of comparing strings :*/
+//                if (command == 1) {
+//                    arr[0] = countyName;
+//                    arr[1] = totalNorth;
+//                    arr[2] = totalWest;
+//                }
+//                /* What is at case:*/
+//                if (command == 2) {
+//                    arr[0] = featureName;
+//                    arr[1] = countyName;
+//                    arr[2] = state;
+//                    arr[3] = totalWest; /* Used these to print onto logfile*/
+//                    arr[4] = totalNorth; /* Used this to print onto logfile*/
+//                }
+//                
+//                if (command == 3) {
+//                    arr[0] = featureName;
+//                    arr[1] = state;
+//                    arr[2] = primLatN;
+//                    arr[3] = primLongW;
+//                }
+//            
+//            raf.close();
+//            return arr;
+//        } /* end try block*/
+//        catch (Exception e) { 
+//            System.out.println(" Exception in retriever method in GIS!");
+//            e.printStackTrace();
+//            System.exit(1);
+//        } /* end catch block*/
+       // return null;

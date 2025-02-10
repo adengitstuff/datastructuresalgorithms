@@ -1,0 +1,52 @@
+	1:  show_longitude	1180
+	  null
+	2:  show_elevation	697
+	  4367
+	3:  show_latitude	5620
+	  null
+	4:  show_longitude	811
+	  null
+	5:  show_longitude	7592
+	  null
+	6:  show_latitude	6682
+	  null
+	7:  show_name	3688
+	  Wild Cow Mesa
+	8:  show_elevation	2514
+	  5771
+	9:  show_elevation	8523
+	  
+	10:  show_latitude	9107
+	  null
+	11:  show_name	4065
+	  Cawley Ranch
+	12:  show_longitude	9107
+	  null
+	13:  show_longitude	4186
+	  null
+	14:  show_name	6807
+	  Hope Community Canal
+	15:  show_name	3180
+	  Park Junior High School
+	16:  show_latitude	5235
+	  null
+	17:  show_name	-200
+	 Offset is not positive
+	18:  show_elevation	8922
+	  
+	19:  show_longitude	6310
+	  null
+	20:  show_longitude	3428
+	  null
+	21:  show_latitude	9585
+	  null
+	22:  show_elevation	5501
+	  3442
+	23:  show_latitude	421
+	  null
+	24:  show_elevation	7238
+	  Carlsbad East
+	25:  show_longitude	1719
+	  null
+	25: quit 
+	Exiting

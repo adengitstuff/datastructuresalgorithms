@@ -1,0 +1,7 @@
+File: generated.txt
+Cache Hits: 422792
+Cache Misses: 5
+Disk Reads: 5
+Disk Writes: 5
+Max Time: 42 ms
+

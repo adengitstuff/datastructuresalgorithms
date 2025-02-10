@@ -1,0 +1,121 @@
+; Script 3
+;
+; Test of multiple import commands with a couple of tiny DB files.
+;
+; Specify boundaries of coordinate space:
+
+GIS Program
+dbFile:	THISISTHEDATABASE.txt
+script :	cmd3.txt
+log: 	THISISTHELOG.txt
+Start time: Thu Apr 22 17:51:39 EDT 2021
+Quadtree children are printed in the order SW SE NE NW
+-----------------------------------------------------------
+
+Latitude/longitude values in index entries are shown as signed integers, in total seconds.
+World boundaries are set to:
+		   138930
+	-288240			-285660
+		   136350
+------------------------------------------------
+;
+; Import a smallish DB file:
+Command 1:   Import	VA_Highland.txt
+
+Imported Features by name:	
+Imported Locations: 	
+Average name length: 	
+--------------------------------------------------------------------
+;
+; Check the location and name/state indices:
+;
+; Import another smallish DB file:
+Command 2:   Import	VA_Bath.txt
+
+Imported Features by name:	
+Imported Locations: 	
+Average name length: 	
+--------------------------------------------------------------------
+;
+; Check the location and name/state indices:
+;
+; Try a few range searches:
+Command 3: what_is_in	381257N	0794039W	120	60
+
+	The following features were found in @@@@@@@@@@
+	48361: Bolar Gap VA 381308N
+	3166: Bolar Spring VA 381259N
+	69704: Little Valley VA 381303N
+	69854: Little Valley Run VA 381303N
+	99306: Bolar VA 381302N
+	107063: Bolar Methodist Church (historical) VA 381257N
+	109119: Set Free Christian Fellowship Church VA 381257N
+	99682: White Rock Mountain VA 381126N
+------------------------------------
+Command 4: what_is_in	381257N	0794039W	60	60
+
+	The following features were found in @@@@@@@@@@
+	48361: Bolar Gap VA 381308N
+	3166: Bolar Spring VA 381259N
+	69704: Little Valley VA 381303N
+	69854: Little Valley Run VA 381303N
+	99306: Bolar VA 381302N
+	107063: Bolar Methodist Church (historical) VA 381257N
+	109119: Set Free Christian Fellowship Church VA 381257N
+------------------------------------
+Command 5: what_is_in	381257N	0794039W	120	120
+
+	The following features were found in @@@@@@@@@@
+	25449: Stony Run Cemetery VA 381345N
+	18997: Morris Run VA 381306N
+	80183: Pritt Hollow VA 381240N
+	3000: Bolar Run VA 381346N
+	20876: Peak Run VA 381343N
+	25294: Stony Run VA 381340N
+	31030: Stony Run Church VA 381342N
+	48361: Bolar Gap VA 381308N
+	3166: Bolar Spring VA 381259N
+	69704: Little Valley VA 381303N
+	69854: Little Valley Run VA 381303N
+	99306: Bolar VA 381302N
+	107063: Bolar Methodist Church (historical) VA 381257N
+	109119: Set Free Christian Fellowship Church VA 381257N
+	2127: Big Valley Cemetery VA 381454N
+	27862: Valley Bethel Church VA 381445N
+	36497: Bethel VA 381452N
+	99682: White Rock Mountain VA 381126N
+------------------------------------
+Command 6: what_is_in	381257N	0794039W	120	240
+
+	The following features were found in @@@@@@@@@@
+	17496: McGuffin Trail VA 381411N
+	78809: Piney Ridge VA 381355N
+	25449: Stony Run Cemetery VA 381345N
+	18997: Morris Run VA 381306N
+	61174: Givens Run VA 381229N
+	80183: Pritt Hollow VA 381240N
+	113414: Singleton Airport VA 381239N
+	54830: Cleek Cemetery VA 381135N
+	73821: Mill Run VA 381137N
+	110228: Cleeks Mill (historical) VA 381147N
+	89174: Stillhouse Hollow VA 381115N
+	42640: Barnetts Run VA 381128N
+	3000: Bolar Run VA 381346N
+	20876: Peak Run VA 381343N
+	25294: Stony Run VA 381340N
+	31030: Stony Run Church VA 381342N
+	48361: Bolar Gap VA 381308N
+	3166: Bolar Spring VA 381259N
+	69704: Little Valley VA 381303N
+	69854: Little Valley Run VA 381303N
+	99306: Bolar VA 381302N
+	107063: Bolar Methodist Church (historical) VA 381257N
+	109119: Set Free Christian Fellowship Church VA 381257N
+	2127: Big Valley Cemetery VA 381454N
+	27862: Valley Bethel Church VA 381445N
+	36497: Bethel VA 381452N
+	99682: White Rock Mountain VA 381126N
+	85350: Chesnut Ridge VA 381153N
+------------------------------------
+;
+; Exit

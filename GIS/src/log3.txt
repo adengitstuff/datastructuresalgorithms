@@ -1,0 +1,83 @@
+; Script 3
+;
+; Test of multiple import commands with a couple of tiny DB files.
+;
+; Specify boundaries of coordinate space:
+
+GIS Program
+dbFile:	db3.txt
+script :	cmd3.txt
+log: 	log3.txt
+Start time: Wed Apr 21 23:38:15 EDT 2021
+Quadtree children are printed in the order SW SE NE NW
+-----------------------------------------------------------
+
+Latitude/longitude values in index entries are shown as signed integers, in total seconds.
+World boundaries are set to:
+		   138930
+	-288240			-285660
+		   136350
+------------------------------------------------
+;
+; Import a smallish DB file:
+Command 1:   Import	VA_Highland.txt
+
+Imported Features by name:	
+Imported Locations: 	
+Average name length: 	
+--------------------------------------------------------------------
+;
+; Check the location and name/state indices:
+;
+; Import another smallish DB file:
+Command 2:   Import	VA_Bath.txt
+
+Imported Features by name:	
+Imported Locations: 	
+Average name length: 	
+--------------------------------------------------------------------
+;
+; Check the location and name/state indices:
+;
+; Try a few range searches:
+Command 3: what_is_in	381257N	0794039W	120	60
+
+	The following features were found in @@@@@@@@@@
+	3166: Bolar Spring VA 381259N
+------------------------------------
+Command 4: what_is_in	381257N	0794039W	60	60
+
+	The following features were found in @@@@@@@@@@
+	3166: Bolar Spring VA 381259N
+------------------------------------
+Command 5: what_is_in	381257N	0794039W	120	120
+
+	The following features were found in @@@@@@@@@@
+	18997: Morris Run VA 381306N
+	25449: Stony Run Cemetery VA 381345N
+	3000: Bolar Run VA 381346N
+	20876: Peak Run VA 381343N
+	25294: Stony Run VA 381340N
+	31030: Stony Run Church VA 381342N
+	3166: Bolar Spring VA 381259N
+	2127: Big Valley Cemetery VA 381454N
+	27862: Valley Bethel Church VA 381445N
+	36497: Bethel VA 381452N
+------------------------------------
+Command 6: what_is_in	381257N	0794039W	120	240
+
+	The following features were found in @@@@@@@@@@
+	17496: McGuffin Trail VA 381411N
+	18997: Morris Run VA 381306N
+	25449: Stony Run Cemetery VA 381345N
+	3000: Bolar Run VA 381346N
+	20876: Peak Run VA 381343N
+	25294: Stony Run VA 381340N
+	31030: Stony Run Church VA 381342N
+	3166: Bolar Spring VA 381259N
+	2127: Big Valley Cemetery VA 381454N
+	27862: Valley Bethel Church VA 381445N
+	36497: Bethel VA 381452N
+------------------------------------
+;
+; Exit

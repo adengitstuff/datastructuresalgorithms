@@ -1,0 +1,65 @@
+; CS 3114:  test script for GIS file parsing project.
+;
+; Report feature elevation:
+show_elevation	9540
+;  
+; Report feature elevation:
+show_elevation	2800
+;  
+show_latitude	9426
+;  
+; Report feature longitude:
+show_longitude	7685
+;  
+show_elevation	4403
+;  
+; Report feature name:
+show_name	8088
+;  
+; Report feature longitude:
+show_longitude	7560
+;  
+show_latitude	635
+;  
+show_latitude	10591
+;  
+show_elevation	2579
+;  
+; Report feature name:
+show_name	-220
+;  
+; Report feature longitude:
+show_longitude	8207
+;  
+; Report feature longitude:
+show_longitude	1283
+;  
+show_latitude	11729
+;  
+show_latitude	6799
+;  
+; Report feature latitude:
+show_latitude	2010
+;  
+show_elevation	8460
+;  
+; Report feature elevation:
+show_elevation	6029
+;  
+show_elevation	9131
+;  
+; Report feature elevation:
+show_elevation	5255
+;  
+; Report feature longitude:
+show_longitude	10591
+;  
+; Report feature longitude:
+show_longitude	1518
+;  
+; Report feature name:
+show_name	6153
+;  
+show_longitude	5124
+;  
+quit	

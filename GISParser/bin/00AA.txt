@@ -1,0 +1,52 @@
+	1:  show_elevation	2054
+	  2969
+	2:  show_name	-813
+	 Offset is not positive
+	3:  show_elevation	8843
+	  
+	4:  show_elevation	3730
+	  4157
+	5:  show_elevation	4887
+	  3199
+	6:  show_latitude	8427
+	   Coordinate is not given
+	7:  show_longitude	916
+	  104d 42m 35s West
+	8:  show_longitude	1799
+	  104d 24m 12s West
+	9:  show_name	3976
+	  10077 Water Well
+	10:  show_longitude	4095
+	  104d 39m 28s West
+	11:  show_elevation	3860
+	  3107
+	12:  show_latitude	673
+	  32d 17m 48s North
+	13:  show_elevation	6590
+	  6548
+	14:  show_elevation	6902
+	  Offset is unaligned
+	15:  show_latitude	9956
+	 Offset is too large
+	16:  show_longitude	4767
+	  104d 8m 11s West
+	17:  show_longitude	8313
+	  Coordinate is not given
+	18:  show_longitude	8945
+	  Coordinate is not given
+	19:  show_name	3460
+	  Washington Spring
+	20:  show_longitude	265
+	  103d 49m 18s West
+	21:  show_latitude	8634
+	   Coordinate is not given
+	22:  show_latitude	1049
+	  32d 31m 21s North
+	23:  show_longitude	3071
+	  104d 4m 10s West
+	24:  show_elevation	5793
+	  5525
+	25:  show_elevation	6746
+	  4190
+	25: quit 
+	Exiting

@@ -1,0 +1,71 @@
+GISGISGIS.txt contains the following records: 
+
+ 	265	Park Tank
+ 	386	Our Lady of Grace Parish
+ 	515	Stone Canyon
+ 	673	J D Well
+ 	793	06740 Water Well
+ 	916	Kite Windmill Storage Tank
+ 	1049	Rocky Arroyo
+ 	1213	Cottonwood Creek
+ 	1374	Goat Canyon
+ 	1530	Reed Tank
+ 	1654	North Windfohr and Brown Camp Number 1
+ 	1799	Artesia Weather Station
+ 	1927	Cass Draw Site Number One Dam
+ 	2054	Willow Lake Dam
+ 	2169	Walt Canyon
+ 	2325	06014 Water Well
+ 	2444	10231 Water Well
+ 	2568	06436 Water Well
+ 	2689	Major Johnson Springs
+ 	2818	10477 Water Well
+ 	2945	Frontier Post
+ 	3071	Chinaberry Well
+ 	3187	Truitt Well
+ 	3306	Pine Canyon
+ 	3460	Washington Spring
+ 	3599	East Tank
+ 	3730	Box Canyon Ranch
+ 	3860	Southern Canal
+ 	3976	10077 Water Well
+ 	4095	Fanning Draw
+ 	4252	W W Smith and Sons Ranch
+ 	4388	Monterrey Elementary School
+ 	4525	10202 Water Well
+ 	4649	Southeast Well
+ 	4767	Hobbs Well
+ 	4887	06705 Water Well
+ 	5008	Happy Valley Census Designated Place
+ 	5154	William Baskin House Historic Site
+ 	5295	Turkey Spring
+ 	5432	06119 Water Well
+ 	5549	10235 Water Well
+ 	5673	06706 Water Well
+ 	5793	Franks Canyon
+ 	5956	Putman Cabin
+ 	6071	08041 Water Well
+ 	6195	Wadcutter Draw
+ 	6354	The Tepee
+ 	6473	Queen Ranch
+ 	6590	JRC Canyon
+ 	6746	Anderson Young Ranch
+ 	6885	Lee Ranch
+ 	7004	06070 Water Well
+ 	7123	Roberts Canyon
+ 	7285	New Tank
+ 	7419	Sheep Draw
+ 	7575	Cone Butte
+ 	7695	Cavern Baptist Church
+ 	7792	Hillcrest United Methodist Church
+ 	7901	Mount Sinai United Methodist Church
+ 	8012	Wayside Mission Church of God in Christ
+ 	8127	Lusk Ranch Site
+ 	8218	Otis Baptist Church
+ 	8313	Oriental Post Office (historical)
+ 	8427	Saint Edwards Catholic Church
+ 	8532	Mount Olive Baptist Church
+ 	8634	Francis
+ 	8726	Reeds Ranch Post Office (historical)
+ 	8843	Oasis Christian Fellowship
+ 	8945	First United Methodist Church

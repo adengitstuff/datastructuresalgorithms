@@ -1,0 +1,58 @@
+	1:  show_longitude	11005
+	  null
+	2:  show_latitude	7532
+	  null
+	3:  show_elevation	3296
+	  4127
+	4:  show_elevation	6064
+	  3153
+	5:  show_longitude	997
+	  null
+	6:  show_latitude	10809
+	  null
+	7:  show_name	5790
+	  Tucker Draw
+	8:  show_latitude	6387
+	  null
+	9:  show_elevation	5413
+	  3481
+	10:  show_longitude	7810
+	  null
+	11:  show_elevation	10932
+	  Unknown
+	12:  show_longitude	9300
+	  null
+	13:  show_elevation	8765
+	  3222
+	14:  show_elevation	3541
+	  3373
+	15:  show_elevation	5945
+	  3412
+	16:  show_elevation	8067
+	  2881
+	17:  show_name	265
+	  Cockleberry Tank
+	18:  show_longitude	2892
+	  null
+	19:  show_latitude	5658
+	  null
+	20:  show_name	565
+	  20070 Water Well
+	21:  show_longitude	3774
+	  null
+	22:  show_name	9948
+	  Lone Tree Draw
+	23:  show_latitude	2347
+	  null
+	24:  show_name	-79
+	 Offset is not positive
+	25:  show_latitude	11569
+	  null
+	26:  show_name	7166
+	  Indian Well
+	27:  show_longitude	9016
+	  null
+	28:  show_longitude	1808
+	  null
+	28: quit 
+	Exiting

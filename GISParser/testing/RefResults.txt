@@ -1,0 +1,58 @@
+[ 0] 1: show_name  	6123
+[48]    United States Potash Company Refinery
+[ 0] 2: show_longitude  	8391
+[34]    Coordinate is not given
+[ 0] 3: show_name  	7335
+[34]    McBride Tank
+[ 0] 4: show_elevation  	2140
+[34]    3058
+[ 0] 5: show_longitude  	6263
+[34]    104d 15m 57s West
+[ 0] 6: show_longitude  	4250
+[34]    104d 24m 13s West
+[ 0] 7: show_elevation  	5885
+[34]    3438
+[ 0] 8: show_name  	3320
+[34]    Bullis Canyon
+[ 0] 9: show_name  	7463
+[34]    06732 Water Well
+[ 0] 10: show_elevation  	1373
+[34]    Offset is unaligned
+[ 0] 11: show_name  	7780
+[34]    Bass (historical)
+[ 0] 12: show_elevation  	4650
+[34]    3061
+[ 0] 13: show_latitude  	8572
+[34]    Coordinate is not given
+[ 0] 14: show_elevation  	4895
+[34]    3346
+[ 0] 15: show_elevation  	1489
+[34]    3379
+[ 0] 16: show_name  	-146
+[34]    Offset is not positive
+[ 0] 17: show_longitude  	1228
+[34]    104d 38m 45s West
+[ 0] 18: show_name  	7686
+[34]    Restoration Church
+[ 0] 19: show_name  	6566
+[34]    20100 Water Well
+[ 0] 20: show_longitude  	4519
+[34]    104d 24m 2s West
+[ 0] 21: show_longitude  	3041
+[34]    104d 34m 44s West
+[ 0] 22: show_longitude  	5268
+[34]    104d 9m 33s West
+[ 0] 23: show_name  	7997
+[34]    First Church of the Nazarene
+[ 0] 24: show_latitude  	8205
+[34]    Coordinate is not given
+[ 0] 25: show_name  	4776
+[34]    06006 Water Well
+[ 0] 26: show_longitude  	5018
+[34]    103d 46m 58s West
+[ 0] 27: show_elevation  	7213
+[34]    4183
+[ 0] 28: show_latitude  	2394
+[34]    32d 46m 37s North
+[ 0] 29: quit  	
+[34]    Exiting

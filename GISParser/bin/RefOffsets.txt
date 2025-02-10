@@ -1,0 +1,71 @@
+[ 0] RefOffsets.txt contains the following records:
+[ 0] 
+[31]      265   Dickson Farm
+[ 7]      380   Happy Valley Fire Department Station 1
+[ 7]      531   Calvary Assembly of God Church
+[ 7]      671   06068 Water Well
+[ 7]      790   Edward R Gasler House Historic Site
+[ 7]      932   06685 Water Well
+[ 7]     1058   El Paso Gap
+[ 7]     1175   Rounds Waterhole
+[ 7]     1313   Flynn-Welch-Yates Number Three Oil Well Historic Site
+[ 7]     1471   Paxton Well
+[ 7]     1592   Tecolote Peak
+[ 7]     1718   Owl Draw
+[ 7]     1869   Twin Boils Spring
+[ 7]     2004   Middleton Storage Tank
+[ 7]     2138   Barber Crossing
+[ 7]     2270   Righthand Well
+[ 7]     2392   Hagerman Heights
+[ 7]     2527   Harkey Crossing
+[ 7]     2657   06048 Water Well
+[ 7]     2776   Christian Science Society Church
+[ 7]     2913   20082 Water Well
+[ 7]     3033   Rock Windmill
+[ 7]     3158   KBPM-La Huerta (Los Alamos)
+[ 7]     3294   71036 Water Well
+[ 7]     3412   Catclaw Draw
+[ 7]     3570   Saint Edwards School
+[ 7]     3700   Dunnaway Tank
+[ 7]     3833   Dunnaway Canyon
+[ 7]     3997   Putman Water Well
+[ 7]     4127   Double Canyon Draw
+[ 7]     4299   07037 Water Well
+[ 7]     4425   South Seep
+[ 7]     4549   Tomcat Windmill
+[ 7]     4674   Avalon
+[ 7]     4799   Willar Well
+[ 7]     4913   06003 Water Well
+[ 7]     5032   Care Plus Ambulance
+[ 7]     5164   Whites City Volunteer Fire Department Station 2
+[ 7]     5331   Russell Ranch
+[ 7]     5455   06151 Water Well
+[ 7]     5574   Sunshine Tank
+[ 7]     5698   06043 Water Well
+[ 7]     5817   Townsite Salt
+[ 7]     5938   Williams Hollow
+[ 7]     6063   06744 Water Well
+[ 7]     6186   Sitting Bull Falls Point of Interest
+[ 7]     6323   Chimney Well
+[ 7]     6446   Greybug Maljamar Oil Field
+[ 7]     6583   Black River Village
+[ 7]     6727   20056 Water Well
+[ 7]     6858   RA-7804 Water Well
+[ 7]     6985   Southern Canal
+[ 7]     7108   Target Windmill
+[ 7]     7234   Pipkin Ranch (historical)
+[ 7]     7373   South Well
+[ 7]     7495   20146 Water Well
+[ 7]     7621   71110 Water Well
+[ 7]     7740   Francis
+[ 7]     7832   Garden Street Baptist Church
+[ 7]     7936   Eddy Post Office (historical)
+[ 7]     8046   Lookout Post Office (historical)
+[ 7]     8159   Mount Olive Baptist Church
+[ 7]     8261   Saint Edwards Catholic Church
+[ 7]     8366   Lifescope
+[ 7]     8451   Bass (historical)
+[ 7]     8553   Mount Sinai United Methodist Church
+[ 7]     8664   20135 Water Well
+[ 7]     8754   Florence Post Office (historical)
+[ 0] 

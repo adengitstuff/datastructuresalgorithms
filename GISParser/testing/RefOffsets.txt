@@ -1,0 +1,70 @@
+[ 0] RefOffsets.txt contains the following records:
+[ 0] 
+[38]      265   North Shugart Oil Field
+[ 7]      396   Hackberry Well
+[ 7]      514   North Fork Little McKittrick Draw
+[ 7]      687   Lechuguilla Canyon
+[ 7]      855   Rock Windmill
+[ 7]      980   06062 Water Well
+[ 7]     1098   10301 Water Well
+[ 7]     1228   12578 Water Well
+[ 7]     1356   Saint Pauls Episcopal Church
+[ 7]     1489   Lake Arthur High School
+[ 7]     1620   SE Storm Drainage Detention Dam
+[ 7]     1753   Smith Ranch
+[ 7]     1874   Harroun Lake Dam
+[ 7]     1989   Black River
+[ 7]     2140   Flotation Plant
+[ 7]     2256   Double Wells Tank
+[ 7]     2394   Sherrell Pit
+[ 7]     2508   Box Canyon Ranch
+[ 7]     2638   Unite State Potash Reserve
+[ 7]     2779   Loco Hills Division
+[ 7]     2923   10465 Water Well
+[ 7]     3041   Lee Ranch
+[ 7]     3160   Waterhole Draw
+[ 7]     3320   Bullis Canyon
+[ 7]     3477   Jahie Lake
+[ 7]     3606   71041 Water Well
+[ 7]     3725   Livingston Ridge
+[ 7]     3854   Jumping Spring
+[ 7]     3990   Monterrey Elementary School
+[ 7]     4127   20153 Water Well
+[ 7]     4250   06146 Water Well
+[ 7]     4368   Happy Valley Fire Department Station 1
+[ 7]     4519   Pay Jay Number 2 Heliport
+[ 7]     4650   Lower Reed Well
+[ 7]     4776   06006 Water Well
+[ 7]     4895   06742 Water Well
+[ 7]     5018   Target Windmill
+[ 7]     5144   Lusk Ranch
+[ 7]     5268   06441 Water Well
+[ 7]     5389   Knee Deep
+[ 7]     5521   Jones Ranch
+[ 7]     5642   Nash Draw Mine
+[ 7]     5763   Hurston Tank
+[ 7]     5885   71075 Water Well
+[ 7]     6003   06620 Water Well
+[ 7]     6123   United States Potash Company Refinery
+[ 7]     6263   East Tank
+[ 7]     6394   Goat Corral Canyon
+[ 7]     6566   20100 Water Well
+[ 7]     6692   Municipal Lake
+[ 7]     6810   Truitt Ranch
+[ 7]     6932   East Apple Tank
+[ 7]     7056   Fanning Draw
+[ 7]     7213   Sotol Basin
+[ 7]     7335   McBride Tank
+[ 7]     7463   06732 Water Well
+[ 7]     7586   Rice Memorial CME Church
+[ 7]     7686   Restoration Church
+[ 7]     7780   Bass (historical)
+[ 7]     7882   Westwater Post Office (historical)
+[ 7]     7997   First Church of the Nazarene
+[ 7]     8101   Garden Street Baptist Church
+[ 7]     8205   Central Christian Church
+[ 7]     8305   Popes Well
+[ 7]     8391   Hobbs Highway Pit
+[ 7]     8482   20135 Water Well
+[ 7]     8572   Oriental Post Office (historical)
+[ 0] 

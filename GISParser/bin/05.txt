@@ -1,0 +1,58 @@
+	1:  show_longitude	11005
+	  Coordinate is not given.
+	2:  show_latitude	7532
+	  321533N
+	3:  show_elevation	3296
+	  4127
+	4:  show_elevation	6064
+	  3153
+	5:  show_longitude	997
+	  1040305W
+	6:  show_latitude	10809
+	  Coordinate is not given.
+	7:  show_name	5790
+	  Tucker Draw
+	8:  show_latitude	6387
+	  324958N
+	9:  show_elevation	5413
+	  3481
+	10:  show_longitude	7810
+	  1045032W
+	11:  show_elevation	10932
+	  Unknown
+	12:  show_longitude	9300
+	  1042218W
+	13:  show_elevation	8765
+	  3222
+	14:  show_elevation	3541
+	  3373
+	15:  show_elevation	5945
+	  3412
+	16:  show_elevation	8067
+	  2881
+	17:  show_name	265
+	  Cockleberry Tank
+	18:  show_longitude	2892
+	  1042239W
+	19:  show_latitude	5658
+	  320212N
+	20:  show_name	565
+	  20070 Water Well
+	21:  show_longitude	3774
+	  1041709W
+	22:  show_name	9948
+	  Lone Tree Draw
+	23:  show_latitude	2347
+	  325032N
+	24:  show_name	-79
+	 Offset is not positive
+	25:  show_latitude	11569
+	 Offset is too large
+	26:  show_name	7166
+	  Indian Well
+	27:  show_longitude	9016
+	  1044358W
+	28:  show_longitude	1808
+	  1041450W
+	28: quit 
+	Exiting
